@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, Target, ArrowUpRight } from 'lucide-react';
 
 export function Walkthrough() {
