@@ -9,28 +9,28 @@ interface Section {
 
 const sections: Section[] = [
   {
-    title: "Communication: The Invisible Threads That Bind Us",
-    content: "Communication is a fundamental and omnipresent part of our personal and professional lives. Whether we're actively participating in a conversation or passively receiving information, we are constantly exchanging messages and ideas. This process is especially amplified in our digital, technology-driven world where communication happens through a variety of channels - from face-to-face interactions to email, chat, and online collaboration tools. Understanding the pervasive nature of communication is crucial for software engineers, as effective communication skills are just as important as technical abilities in delivering successful projects and working well on teams.",
+    title: "The Silent Dance: My Journey Through the Communication Maze",
+    content: "Throughout my CS journey, I've discovered that communication isn't just about the words we speak—it's in every line of code I write, every pull request I submit, and every standup I attend. Simply put - it is omnipresent being in every aspect of my work. Whether I'm actively participating in team discussions or simply responding to messages, I'm constantly sending and receiving signals that shape my effectiveness as a developer.  In our digital world, I've learned that even my silence communicates something—communication has become the invisible thread weaving together every aspect of my professional life, turning silence into a powerful statement and every interaction into an opportunity for growth.",
     icon: <MessageSquare className="w-6 h-6" />
   },
   {
-    title: "The Communication Superpowers of Exceptional Engineers",
-    content: "Throughout your studies and early career, certain communication topics are likely to stand out as particularly significant and beneficial. These may include emotional intelligence, cross-cultural communication, technical documentation, and presentation skills. Developing proficiency in these areas can greatly enhance your ability to convey complex technical concepts, collaborate productively with teammates, and engage effectively with stakeholders from diverse backgrounds.",
+    title: "Lightbulb Moments: Communication Milestones That Changed My Game",
+    content: "Looking back at my learning path, three communication skills have fundamentally transformed how I work: emotional intelligence in team dynamics, cross-cultural communication in global projects, and technical documentation. These weren't just academic concepts—they became real tools when I had to navigate team conflicts, collaborate with international teammates (during internships and classes), and explain my code to others. Each skill has built upon the others, creating a foundation for effective collaboration.",
     icon: <Users className="w-6 h-6" />
   },
   {
-    title: "Slaying the Communication Dragons: Overcoming Challenges",
-    content: "Even the most experienced communicators face ongoing challenges. For aspiring software engineers, common hurdles may include overcoming speech anxiety, learning to provide and receive constructive feedback, and mastering the art of listening. To address these challenges, it's important to proactively seek out opportunities for improvement, such as joining toastmasters, practicing public speaking, and soliciting honest feedback from peers and mentors. By identifying your communication weaknesses and developing a plan to strengthen them, you'll be well on your way to becoming an effective communicator in both your academic and professional endeavors.",
+    title: "Breaking Through My Communication Barriers",
+    content: "My biggest hurdle? Public speaking anxiety, especially during technical presentations. Every time I stood up to present my projects, my heart would race and my thoughts would scatter. Not to say that I’m perfect now, but I’m actively working on it, utilizing every opportunity I get to showcase my public speaking. Each presentation is a small step forward, and I'm already seeing improvement in my confidence and delivery (and hope it reflected during my course of study in CS2101!).",
     icon: <Shield className="w-6 h-6" />
   },
   {
-    title: "Communication: The Swiss Army Knife of Software Success",
-    content: "Many of the communication skills you develop throughout your studies will prove invaluable in your future software engineering career. For example, the ability to write clear and concise technical documentation can help you share complex system designs with cross-functional teams. Similarly, mastering the art of persuasive communication can assist you in advocating for technical solutions, securing buy-in from stakeholders, and navigating organizational politics. Additionally, strong interpersonal skills like active listening and conflict resolution will serve you well in collaborative project work. By recognizing the broader applicability of communication topics beyond the classroom, you can intentionally hone these abilities and leverage them to become a more well-rounded and impactful software engineer.",
+    title: "My Communication Toolkit: From Classroom to Code",
+    content: "The most valuable skills in my toolkit are clear technical writing and active listening. When I documented my first major project, I realized these skills weren't just for assignments—they're essential for my future as a software engineer. I use technical writing daily in my project documentation, and active listening helps me understand project requirements better. These skills have already improved my team collaborations and will be crucial in my future engineering role.",
     icon: <Wrench className="w-6 h-6" />
   },
   {
-    title: "Speak Up, Stand Out: Communication Advice for Future Engineers",
-    content: "As an aspiring software engineer, make communication a priority. Continuously seek out opportunities to practice public speaking, provide constructive feedback, and tailor your message to diverse audiences. These skills will serve you well throughout your career and help you stand out as a well-rounded professional.",
+    title: "Level Up Your Communication Game",
+    content: "Simply put - stop treating “communication” as irrelevant to you as a SWE. Start treating communication skills as important as your technical skills—because they are. Practice explaining complex concepts in simple terms, learn to read the room in team meetings (or classes), and always seek feedback on your communication style. Remember: great code alone doesn't make a great engineer. Your ability to collaborate, explain, and influence is what will set you apart in your software engineering career.",
     icon: <Book className="w-6 h-6" />
   }
 ];
