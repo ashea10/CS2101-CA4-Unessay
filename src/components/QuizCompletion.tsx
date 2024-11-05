@@ -1,4 +1,3 @@
-import React from 'react';
 import { Home, RefreshCw, List, BookOpen } from 'lucide-react';
 
 interface QuizCompletionProps {
@@ -10,7 +9,6 @@ interface QuizCompletionProps {
 }
 
 export function QuizCompletion({
-  totalQuestions,
   onGoHome,
   onRetake,
   onNewQuiz,

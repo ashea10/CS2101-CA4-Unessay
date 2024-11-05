@@ -1,4 +1,3 @@
-import React from 'react';
 import { Users, Target, MessageCircle, Globe, Sparkles } from 'lucide-react';
 import { QuizGroup, quizTypes } from '../types';
 
